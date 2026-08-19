@@ -1,0 +1,62 @@
+<bg>https://picsum.photos/seed/mango/800/600<$bg>
+
+<section 基本信息>
+<title><gradient&#ff8a00&#ffd700>🐉 绒金 · 扩列条3.0<$gradient><$title>
+<txt>
+大家好呀，我叫<b>绒金<$b>，一只来自<b>甘肃<$b>的兽兽～
+我是一只<b>芒果龙<$b>，最喜欢吃的就是<b>奥利奥<$b>啦！
+各种口味都尝过哦 <i>QwQ<$i>
+<$txt>
+<small>平常不怎么说话，但只要找到话题就可以一直聊～<$small>
+<$section>
+
+<section 性格态度>
+<title><gradient&#ffd700&#e52e71>💛 性格 & 态度<$gradient><$title>
+<txt>
+<b>脾气超好<$b>，几乎从来不生气，性格温和不哈气～
+欢迎来找我聊天啦（只要在线基本秒回）✨
+
+一只立志于传播正能量的兽兽，治愈每一颗受伤的心❤️
+<i>你的温暖港湾：不开心的事尽管找我哦～<$i>
+<$txt>
+<$section>
+
+<section 兴趣领域>
+<title><gradient&#4393ff&#00ced1>🎮 兴趣领域<$gradient><$title>
+<txt>
+<b>游戏：<$b>
+<gradient&#ff8a00&#ff8a00>• 三角洲行动<$gradient>
+<gradient&#e52e71&#e52e71>• 暗区突围<$gradient>
+<gradient&#4393ff&#4393ff>• 现代战舰<$gradient>（好冷门啊…）
+
+<b>运动：<$b>🏸 羽毛球（但是真的好烧钱…）
+
+<b>军事/政治：<$b>军迷一枚，偶尔了解世界政治
+
+<b>模玩：<$b>高达胶佬，太费手了哈哈 🤖
+<$txt>
+<$section>
+
+<section 雷点须知>
+<title><gradient&#ff0000&#e52e71>⚠️ 雷点 & 须知<$gradient><$title>
+<txt>
+<gradient&#ff0000&#ff0000>🚫 发送恶心图片/表情包<$gradient>
+<gradient&#ff0000&#ff0000>🚫 说话没大没小、乱开玩笑、说别人坏话<$gradient>
+<gradient&#e52e71&#e52e71>🚫 不要随便开我设子的玩笑<$gradient>
+<gradient&#e52e71&#e52e71>🚫 禁止 AI<$gradient>
+
+<small>踩雷直接拉黑，请自重 🙏<$small>
+<$txt>
+<$section>
+
+<section 联系方式>
+<title><gradient&#00ced1&#4393ff>📞 联系我<$gradient><$title>
+<txt>
+本人在线时间：<b>晚上十点以后<$b> 🌙
+
+<button_link>https://qm.qq.com/cgi-bin/qm/qr?k=2097851358|QQ：2097851358<$button_link>
+<button_link>https://example.com|另一个按钮<$button_link>
+
+期待与你成为朋友，一起温暖彼此！🌈
+<$txt>
+<$section>
