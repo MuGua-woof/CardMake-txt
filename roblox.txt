@@ -1,36 +1,22 @@
 <bg&link=https://picsum.photos/id/1039/800/450>
 
-<section 什么是Roblox>
-<title>
-<gradient&color=(#58a6ff,#bc8cff)>
-<text>Roblox 是什么？<$text>
-<$gradient>
-<$title>
+<body&theme=dark&font=MiSans&radius=18&blur=14&accent=#58a6ff>
+<$body>
 
+<section 什么是Roblox>
+<title><gradient&color=(#58a6ff,#bc8cff)><text>Roblox 是什么？</text></gradient></title>
 <txt>
 <b>Roblox 不是一个游戏</b>，而是一个
 <i>游戏平台 + 3D 创作社区 + 虚拟社交世界</i>。
 
 由 David Baszucki 与 Erik Cassel 创立，
 2006 年正式上线，2021 年纽交所上市（RBLX）。
-
-官方定义：
-
-<quote>
-“Roblox 是一个人类共同体验平台，
-让数十亿用户一起游玩、学习、交流、
-探索并扩展友谊。”
-<$quote>
 <$txt>
+<quote>“Roblox 是一个人类共同体验平台，让数十亿用户一起游玩、学习、交流、探索并扩展友谊。”</quote>
 <$section>
 
 <section 核心特点>
-<title>
-<gradient&color=(#ff8a00,#e52e71)>
-<text>核心特点<$text>
-<$gradient>
-<$title>
-
+<title><gradient&color=(#ff8a00,#e52e71)><text>核心特点</text></gradient></title>
 <txt>
 <u>1. UGC 驱动平台</u>
 不是单一游戏，而是数百万款用户自制体验：
@@ -69,29 +55,18 @@ AI 聊天过滤、年龄验证、家长控制、
 <$section>
 
 <section 数据一览>
-<title>
-<gradient&color=(#00ff88,#00ccff)>
-<text>关键数据（2026 Q1）<$text>
-<$gradient>
-<$title>
-
+<title><gradient&color=(#00ff88,#00ccff)><text>关键数据（2026 Q1）</text></gradient></title>
 <txt>
 • 日活用户：<b>1.32 亿</b>
 • 季度营收：<b>14.4 亿美元</b>
 • 2025 全年营收：<b>49 亿美元</b>
 • 创作者总收益：<b>超 15 亿美元</b>
-
-<small>数据来源：Roblox 官方财报（2026 Q1）</small>
 <$txt>
+<small>数据来源：Roblox 官方财报（2026 Q1）</small>
 <$section>
 
 <section 与普通游戏的区别>
-<title>
-<gradient&color=(#ff0000,#ffaa00)>
-<text>Roblox vs 传统游戏<$text>
-<$gradient>
-<$title>
-
+<title><gradient&color=(#ff0000,#ffaa00)><text>Roblox vs 传统游戏</text></gradient></title>
 <txt>
 | 对比项 | 传统游戏 | Roblox |
 |---|---|---|
@@ -106,12 +81,7 @@ AI 聊天过滤、年龄验证、家长控制、
 <$section>
 
 <section 一句话总结>
-<title>
-<gradient&color=(#ffffff,#58a6ff)>
-<text>总结<$text>
-<$gradient>
-<$title>
-
+<title><gradient&color=(#ffffff,#58a6ff)><text>总结</text></gradient></title>
 <txt>
 <gradient&color=(#58a6ff,#bc8cff)>
 <text>
@@ -120,8 +90,7 @@ Roblox = 玩游戏的广场 +
 青少年的虚拟社会 +
 创作者的变现平台。
 </text>
-<$gradient>
-
-<small>本介绍已适配个人资料卡系统</small>
+</gradient>
 <$txt>
+<small>本介绍已适配 CardMark 个人资料卡系统</small>
 <$section>
