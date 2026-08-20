@@ -3,6 +3,7 @@
 <section 基本信息>
 <title><gradient&#ff8a00&#ffd700>🐉 绒金 · 扩列条3.0<$gradient><$title>
 <txt>
+<img>https://raw.githubusercontent.com/MuGua-woof/CardMake-txt/refs/heads/main/1787184602964.jpg<$img>
 大家好呀，我叫<b>绒金<$b>，一只来自<b>甘肃<$b>的兽兽～
 我是一只<b>芒果龙<$b>，最喜欢吃的就是<b>奥利奥<$b>啦！
 各种口味都尝过哦 <i>QwQ<$i>
