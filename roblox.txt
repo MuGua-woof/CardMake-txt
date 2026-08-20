@@ -1,95 +1,41 @@
-<bg&link=https://picsum.photos/id/1039/800/450>
+<bg&link=https://picsum.photos/id/1039/1400/700>
 
-<section 什么是Roblox>
-<title><gradient&color=(#58a6ff,#bc8cff)><text>Roblox 是什么？</text></gradient></title>
+<section 个人主页>
+<title>👋 欢迎来到我的卡片<$title>
 <txt>
-<b>Roblox 不是一个游戏</b>，而是一个
-<i>游戏平台 + 3D 创作社区 + 虚拟社交世界</i>。
+你好，这里是个人资料演示。
+<gradient&color=(#58a6ff,#ff9e7b)><text>欢迎使用 CardMark 渲染器<$text><$gradient>
+<$txt>
+<small>更新于 2026‑08‑20<$small>
+<$section>
 
-由 David Baszucki 与 Erik Cassel 创立，
-2006 年正式上线，2021 年纽交所上市（RBLX）。
+<section 关于我>
+<title>📝 关于我<$title>
+<txt><b>爱好：</b>编程、折腾网页、写小工具<$txt>
+<txt><i>座右铭：</i>慢慢打磨，做出喜欢的东西<$txt>
+<quote>少写重复代码，多做有趣功能<$quote>
+<hr><$hr>
+<color>#ff7b72<$color>
+<txt>红色文字测试效果<$txt>
+<color>#e9eef2<$color>
+<$section>
 
-<quote>“Roblox 是一个人类共同体验平台，让数十亿用户一起游玩、学习、交流、探索并扩展友谊。”</quote>
-</txt>
-</section>
+<section 我的链接>
+<title>🔗 外部链接<$title>
+<txt>项目仓库：<$txt>
+<link&url=https://github.com><text>前往 GitHub<$text><$link>
 
-<section 核心特点>
-<title><gradient&color=(#ff8a00,#e52e71)><text>核心特点</text></gradient></title>
-<txt>
-<u>1. UGC 驱动平台</u>
-不是单一游戏，而是数百万款用户自制体验：
+<buttonlink&url=https://bilibili.com><text>打开 B站<$text><$buttonlink>
+<$section>
 
-• 竞速 / 跑酷 / 射击
-• 角色扮演 / 恐怖解密
-• 模拟经营 / 建造 / 生存
-• 虚拟演唱会 / 品牌联名
+<section 工具>
+<title>📋 快捷复制与图片<$title>
+<txt>复制我的ID：<$txt>
+<copy&text=CardMark_001>
 
-热门作品：
-<b>Adopt Me!</b>、<b>Brookhaven RP</b>、
-<b>Dress to Impress</b>、<b>Steal a Brainrot</b>
+<txt>示例图片：<$txt>
+<img&link=https://picsum.photos/id/1025/600/320>
+<small>图片自动圆角适配深色主题<$small>
+<$section>
 
-<u>2. Roblox Studio</u>
-免费创作工具，支持：
-
-• 拖拽建模 & 地形编辑
-• 物理系统 & Lua 脚本（Luau）
-• 一键发布到全平台
-
-<u>3. 跨平台 + 强社交</u>
-支持 PC / 手机 / 主机 / VR，
-拥有统一 Avatar、好友、群组与私服系统。
-
-<u>4. Robux 经济系统</u>
-Robux 是平台虚拟货币：
-
-• 玩家：买皮肤 / 道具 / 私服
-• 创作者：内购 / 广告 / 装扮变现
-• 可通过 <b>DevEx</b> 兑换真实货币
-
-<u>5. 安全与适龄机制</u>
-AI 聊天过滤、年龄验证、家长控制、
-儿童账户与实名认证，保障低龄用户安全。
-</txt>
-</section>
-
-<section 数据一览>
-<title><gradient&color=(#00ff88,#00ccff)><text>关键数据（2026 Q1）</text></gradient></title>
-<txt>
-• 日活用户：<b>1.32 亿</b>
-• 季度营收：<b>14.4 亿美元</b>
-• 2025 全年营收：<b>49 亿美元</b>
-• 创作者总收益：<b>超 15 亿美元</b>
-</txt>
-<small>数据来源：Roblox 官方财报（2026 Q1）</small>
-</section>
-
-<section 与普通游戏的区别>
-<title><gradient&color=(#ff0000,#ffaa00)><text>Roblox vs 传统游戏</text></gradient></title>
-<txt>
-| 对比项 | 传统游戏 | Roblox |
-|---|---|---|
-| 内容来源 | 官方开发 | 用户 / 工作室 |
-| 是否可创作 | ❌ | ✅ |
-| 社交层级 | 局内匹配 | 持久虚拟身份 |
-| 经济系统 | 内购 | Robux + DevEx |
-| 定位 | 单款产品 | 平台 / 元宇宙雏形 |
-
-<quote>常被称作：<b>“游戏界的 YouTube”</b></quote>
-</txt>
-</section>
-
-<section 一句话总结>
-<title><gradient&color=(#ffffff,#58a6ff)><text>总结</text></gradient></title>
-<txt>
-<gradient&color=(#58a6ff,#bc8cff)>
-<text>
-Roblox = 玩游戏的广场 +
-做游戏的工具 +
-青少年的虚拟社会 +
-创作者的变现平台。
-</text>
-</gradient>
-
-<small>本介绍已适配 CardMark 个人资料卡系统</small>
-</txt>
-</section>
+## 这是注释，不会在页面显示 $##
