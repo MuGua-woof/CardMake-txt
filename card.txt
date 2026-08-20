@@ -60,4 +60,4 @@
 期待与你成为朋友，一起温暖彼此！🌈
 <$txt>
 <$section>
-<small>本文采用木瓜设计的标签语音CardMark开发<$small>
+<small> ◎ 本文采用木瓜设计的标签语音CardMark开发<$small>
