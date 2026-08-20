@@ -114,4 +114,4 @@ Roblox = 玩游戏的广场 +
 <$gradient>
 <$txt>
 <small>本介绍已适配个人资料卡系统<$small>
-<$sec
+<$section>
